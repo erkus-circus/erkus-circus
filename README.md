@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erkus-circus
-- 👀 I’m interested in React Native
-- 🌱 I’m currently learning how to make apps
+- 👀 I’m interested in Programming Languages
+- 🌱 I’m currently creating my own! It is called StarPlus and I have been working on it for as long as I can remember
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
